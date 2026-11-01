@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=210&section=header&text=Julian%20Ojeda%20Avil%C3%A9s&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20Engineering%20%7C%20Federated%20Learning%20%7C%20Medical%20Imaging&descSize=17&descAlignY=60" alt="Julian Ojeda Avilés banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=210&section=header&text=Julian%20Ojeda%20Avil%C3%A9s&fontSize=44&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Systems%20Engineering%20%7C%20Federated%20Learning%20%7C%20Medical%20Imaging&descSize=17&descAlignY=60" alt="Julian Ojeda Aviles banner" />
 
 <a href="https://github.com/Ayax911">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=640&lines=Young+Researcher+at+the+MIRP+group+(ITM);Federated+learning+for+mammography;Deep+learning+and+software+engineering;Medell%C3%ADn%2C+Colombia" alt="Typing animation" />
@@ -28,7 +28,7 @@ from dataclasses import dataclass, field
 
 @dataclass
 class Julian:
-    name: str = "Julian Ojeda Avilés"
+    name: str = "Julian Ojeda Aviles"
     location: str = "Medellín, Colombia"
     studying: str = "Systems Engineering @ Instituto Tecnológico Metropolitano (ITM)"
     role: str = "Joven Investigador e Innovador @ MIRP, semillero MIRI2G"
