@@ -117,17 +117,6 @@ EXPERIMENT=exp40_fedavg_full docker compose -f docker-compose.federated.yaml up
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayax911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayax911&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
-
 ## Other work
 
 - Team LAKA qualified for the final round of CODEFEST AD ASTRA 2026, organized by the Colombian Aerospace Force and Universidad de los Andes. Our project was a vector knowledge base evaluated with NDCG@10 and F1@3.
